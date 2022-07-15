@@ -796,13 +796,6 @@ section {
   background: #fff;
   position: relative;
   border-radius: 0;
-  height: 100%;
-}
-
-.services .card .card-img {
-  overflow: hidden;
-  margin-bottom: 15px;
-  border-radius: 0;
 }
 
 .services .card .card-img img {
@@ -1114,6 +1107,8 @@ section {
   background-position: center center;
   background-size: cover;
   position: relative;
+  margin-top: -100px;
+  margin-bottom: 50px;
 }
 
 .testimonials::before {
